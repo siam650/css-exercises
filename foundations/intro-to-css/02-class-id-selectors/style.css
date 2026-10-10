@@ -1,1 +1,26 @@
-/* Add CSS Styling */
+.siam{
+    background-color: pink;
+    font-family: Verdana,sans-serif ;
+    color: black
+}
+.font-size{
+    font-size: 36px;
+
+
+} 
+
+
+
+#civil{
+    color: blue;
+    font-size: 45px;
+
+
+
+}
+#Siam2{
+    font-size: 40px;
+    background-color: yellow;
+    font-weight: bold;
+
+}
